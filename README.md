@@ -30,7 +30,7 @@ cd AdaLogit
 2. Install dependencies
 pip install -r requirements.txt
 
-3. Open adalogit_benchmarks.ipynb in Jupyter Notebook, JupyterLab, or VS Code and run all cells.
+3. Open `AdaLogit_source_and_examples.ipynb` in Jupyter Notebook, JupyterLab, or VS Code and run all cells.
 
 
 ## Reproducing the Paper Results
