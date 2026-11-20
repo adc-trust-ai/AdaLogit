@@ -7,12 +7,30 @@ We introduce AdaLogit, an adaptive logistic regression framework with elastic ne
 [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7431058)
 
 
-## Installation
+## Quickstart
 
+### Option 1: Google Colab
+You can inspect the full `AdaLogit` implementation and run the synthetic and credit-scoring benchmarks directly in your browser without local setup:
 
+- **[Open `AdaLogit_source_and_examples.ipynb` in Google Colab](https://colab.research.google.com/drive/17e0Mze5GYPWFD8S6YVjT7N6uCPC5zf6W?usp=sharing)**
 
-## Usage
+The notebook is self-contained and includes dependency imports, helper functions, the `AdaLogit` estimator, and two sets of experiments:
+1. **Synthetic data:** recovery of true vs. estimated coefficients alongside AUC and Brier score.
+2. **Credit scoring datasets:** out-of-sample AUC and Brier score on the Australian and German credit datasets.
 
+### Option 2: Run Locally
+If you prefer to run the notebook on your own machine:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/adc-trust-ai/AdaLogit.git
+cd AdaLogit
+```
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Open adalogit_benchmarks.ipynb in Jupyter Notebook, JupyterLab, or VS Code and run all cells.
 
 
 ## Reproducing the Paper Results
