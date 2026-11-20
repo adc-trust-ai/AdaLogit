@@ -15,7 +15,7 @@ You can inspect the full `AdaLogit` implementation and run the synthetic and cre
 - **[Open `AdaLogit_source_and_examples.ipynb` in Google Colab](https://colab.research.google.com/drive/17e0Mze5GYPWFD8S6YVjT7N6uCPC5zf6W?usp=sharing)**
 
 The notebook is self-contained and includes dependency imports, helper functions, the `AdaLogit` estimator, and two sets of experiments:
-1. **Synthetic data:** recovery of true vs. estimated coefficients alongside AUC and Brier score.
+1. **Synthetic data:** recovery of true vs. estimated coefficients alongside out-of-sample AUC and Brier score.
 2. **Credit scoring datasets:** out-of-sample AUC and Brier score on the Australian and German credit datasets.
 
 ### Option 2: Run Locally
