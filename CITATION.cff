@@ -2,7 +2,7 @@
 # GitHub renders a "Cite this repository" button from this file.
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Implementation and Redproducibility Code for AdaLogit: Adaptive Logistic Regression for Interpretable Credit Scoring"
+title: "Implementation and Reproducibility Code for AdaLogit: Adaptive Logistic Regression for Interpretable Credit Scoring"
 type: software
 authors:
   - family-names: "Dorador"
@@ -35,5 +35,5 @@ preferred-citation:
     - family-names: "Pérignon"
       given-names: "Christophe"
   year: 2026
-  journal: "HEC Paris Research Paper FIN-2026-1658
+  journal: "HEC Paris Research Paper FIN-2026-1658"
   url: "https://ssrn.com/abstract=7431058"
