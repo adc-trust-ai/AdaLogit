@@ -19,7 +19,7 @@ We introduce AdaLogit, an adaptive logistic regression framework with elastic ne
 
 ## Quickstart
 
-### Option 1: Google Colab
+### Option 1: Google Colab (simplest, plug-and-play)
 You can inspect the full `AdaLogit` implementation and run the synthetic and credit-scoring benchmarks directly in your browser without local setup:
 
 - **[Open `AdaLogit_source_and_examples.ipynb` in Google Colab](https://colab.research.google.com/drive/17e0Mze5GYPWFD8S6YVjT7N6uCPC5zf6W?usp=sharing)**
