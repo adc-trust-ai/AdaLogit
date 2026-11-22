@@ -29,15 +29,21 @@ The notebook is self-contained and includes dependency imports, helper functions
 2. **Credit scoring datasets:** out-of-sample AUC and Brier score on the Australian and German credit datasets.
 
 ### Option 2: Run Locally
-If you prefer to run the notebook on your own machine:
+If you prefer to run the notebook on your own machine (Python 3.10+):
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/adc-trust-ai/AdaLogit.git
+git clone [https://github.com/adc-trust-ai/AdaLogit.git](https://github.com/adc-trust-ai/AdaLogit.git)
 cd AdaLogit
 ```
 
-2. Install dependencies
+2. Create and activate a virtual environment (recommended):
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
+
+3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
