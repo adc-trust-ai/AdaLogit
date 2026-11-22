@@ -54,6 +54,20 @@ pip install -r requirements.txt
 ## Reproducing the Paper Results
 
 
+## Citation
+
+If you use this code or methodology in your research, please cite the accompanying paper:
+
+```bibtex
+@article{AdaLogit2026,
+  author  = {Dorador, A. and Hurlin, C. and Pérignon, C.},
+  title   = {AdaLogit: Adaptive Logistic Regression for Interpretable Credit Scoring},
+  journal = {HEC Paris Research Paper FIN-2026-1658, Available at SSRN: [https://ssrn.com/abstract=7431058](https://ssrn.com/abstract=7431058)},
+  year    = {2026}
+}
+```
+The journal reference will replace the preprint on publication.
+
 
 ## License
 
