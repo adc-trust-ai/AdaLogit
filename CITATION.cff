@@ -1,0 +1,39 @@
+# Citation File Format -- https://citation-file-format.github.io/
+# GitHub renders a "Cite this repository" button from this file.
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Implementation and Redproducibility Code for AdaLogit: Adaptive Logistic Regression for Interpretable Credit Scoring"
+type: software
+authors:
+  - family-names: "Dorador"
+    given-names: "Albert"
+    email: "albert@whiteboxlab.ai"
+    affiliation: "Whitebox Lab, Hi! PARIS"
+    orcid: "https://orcid.org/0009-0000-0707-7105"
+repository-code: "https://github.com/adc-trust-ai/AdaLogit"
+license: "PolyForm-Noncommercial-1.0.0"
+version: "0.1.0"
+date-released: "2026-11-20"
+keywords:
+  - classification
+  - credit-risk
+  - logistic-regression
+  - machine-learning
+  - random-forests
+  - tabpfn
+  - tabular-foundation-models
+
+# The accompanying paper (preferred citation).
+preferred-citation:
+  type: article
+  title: "AdaLogit: Adaptive Logistic Regression for Interpretable Credit Scoring"
+  authors:
+    - family-names: "Dorador"
+      given-names: "Albert"
+    - family-names: "Hurlin"
+      given-names: "Christophe"
+    - family-names: "Pérignon"
+      given-names: "Christophe"
+  year: 2026
+  journal: "HEC Paris Research Paper FIN-2026-1658
+  url: "https://ssrn.com/abstract=7431058"
