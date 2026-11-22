@@ -2,8 +2,8 @@
 
 # AdaLogit
 
-### Adaptive Logistic Regression for Interpretable Credit Scoring
-#### Implementation & Reproducibility Code
+## Adaptive Logistic Regression for Interpretable Credit Scoring
+### Implementation & Reproducibility Code
 
 ![Python](https://img.shields.io/badge/python-3.10--3.13-blue)
 ![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-teal)
